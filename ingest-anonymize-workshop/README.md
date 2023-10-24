@@ -17,11 +17,11 @@ Welcome to the Versatile Data Kit (VDK) Anonymization Plugin Workshop! This work
 
 Ready to jump in? [Access the full workshop tutorial here](https://colab.research.google.com/github/antoniivanov/vdk-demo/blob/main/ingest-anonymize-workshop/IngestAndAnonymizeWorkshop.ipynb)
 
-Support and Documentation
+# Support and Documentation
 
 For more details, methods, and configuration options, you can refer to the official [VDK documentation](https://github.com/vmware/versatile-data-kit).
 
-Happy Learning!
+**Happy Learning!**
 
 
 
