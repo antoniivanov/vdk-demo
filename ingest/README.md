@@ -19,7 +19,7 @@ In this notebook guide, we will walk you through the steps to set up a data inge
 - 
 # How to Get Started
 
-Ready to jump in? [Access the full workshop tutorial here](https://colab.research.google.com/github/antoniivanov/vdk-demo/blob/ingest/Ingest.ipynb)
+Ready to jump in? [Access the full workshop tutorial here](https://colab.research.google.com/github/antoniivanov/vdk-demo/blob/main/ingest/Ingest.ipynb)
 
 # Support and Documentation
 
