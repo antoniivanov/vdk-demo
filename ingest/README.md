@@ -16,7 +16,7 @@ In this notebook guide, we will walk you through the steps to set up a data inge
 - How to install and configure VDK and start a new job.
 - How to configure data sources and destinations
 - Execute the data ingestion and explore the data
-- 
+
 # How to Get Started
 
 Ready to jump in? [Access the full workshop tutorial here](https://colab.research.google.com/github/antoniivanov/vdk-demo/blob/main/ingest/Ingest.ipynb)
